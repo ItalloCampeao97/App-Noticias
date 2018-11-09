@@ -1,2 +1,2 @@
-# App-Not-cias
+# App-Noticias
 App Notícias para Android.
